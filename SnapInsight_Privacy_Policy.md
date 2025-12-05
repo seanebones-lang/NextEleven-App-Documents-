@@ -141,6 +141,9 @@ SnapInsight is built with privacy as a core principle. We believe your photos, v
 
 ## Third-Party Data Sharing
 
+**Content Rights Declaration:**
+SnapInsight contains, shows, or accesses third-party content (xAI API responses, X/Twitter content when sharing). We have all necessary rights to use this content or are otherwise permitted to use it under applicable laws. All third-party integrations are user-initiated and require explicit user authorization.
+
 ### xAI (x.ai) - AI Processing
 
 **When Data is Shared:**
