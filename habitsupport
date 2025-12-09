@@ -1,0 +1,244 @@
+ # Support Policy
+
+**Last Updated:** December 8, 2025
+
+## Contact Information
+
+**Support Email:** info@mothership-ai.com  
+**Response Time:** We aim to respond within 24-48 hours during business days (Monday-Friday, 9 AM - 5 PM EST)
+
+## Support Availability
+
+### Business Hours
+- **Monday - Friday:** 9:00 AM - 5:00 PM Eastern Standard Time
+- **Saturday - Sunday:** Limited support (emergency issues only)
+- **Holidays:** Support may be delayed during major holidays
+
+### Response Times
+- **General Inquiries:** 24-48 hours
+- **Technical Issues:** 24-48 hours
+- **Critical Bugs:** Within 24 hours
+- **Account Issues:** 24-48 hours
+
+## What We Support
+
+### Technical Support
+- App installation and setup issues
+- Feature functionality questions
+- Bug reports and troubleshooting
+- Data sync and backup issues
+- Integration problems (HealthKit, iCloud, etc.)
+- Performance and optimization issues
+
+### Feature Guidance
+- How to use app features
+- Best practices for habit tracking
+- AI feature setup and usage
+- Widget configuration
+- Notification setup
+
+### Account Support
+- Data export assistance
+- Privacy and security questions
+- Account-related inquiries
+
+## What We Don't Support
+
+### Out of Scope
+- **Third-Party Services:** Issues with Apple services (iCloud, HealthKit, App Store) should be directed to Apple Support
+- **Device Issues:** Hardware problems, iOS bugs, or device-specific issues
+- **Network Problems:** Internet connectivity or network configuration issues
+- **Third-Party Apps:** Integration with other apps not developed by us
+- **Custom Development:** Feature requests or custom implementations
+
+### Limitations
+- We cannot recover data that has been permanently deleted
+- We cannot modify data on your device directly
+- We cannot bypass iOS security features or restrictions
+- We do not provide phone support (email only)
+
+## How to Get Support
+
+### Before Contacting Support
+
+1. **Check the FAQ:** Many common questions are answered in our FAQ document
+2. **Review Troubleshooting Guide:** Common issues and solutions are documented
+3. **Update the App:** Ensure you're using the latest version from the App Store
+4. **Restart the App:** Many issues resolve with a simple app restart
+5. **Check Device Settings:** Verify permissions and settings are correct
+
+### When Contacting Support
+
+Please include the following information:
+
+**Required Information:**
+- Your device model (e.g., iPhone 15 Pro, iPad Pro 12.9")
+- iOS version (Settings → General → About → iOS Version)
+- App version (Settings tab → About → Version)
+- Clear description of the issue
+- Steps to reproduce (if applicable)
+- Screenshots or screen recordings (if helpful)
+
+**Optional but Helpful:**
+- When the issue started
+- What you were doing when it occurred
+- Any error messages
+- Whether the issue happens consistently or intermittently
+
+### Contact Methods
+
+**Email:** info@mothership-ai.com
+
+**Subject Line Format:**  
+[Issue Type] - Brief Description
+
+Examples:
+- "[Bug] App crashes when adding habit"
+- "[Question] How to export data"
+- "[Feature Request] Add dark mode toggle"
+
+## Support Process
+
+### 1. Initial Contact
+- Submit your inquiry via email
+- You'll receive an automated confirmation within 1 hour
+- Your ticket will be assigned a reference number
+
+### 2. Triage
+- We review and categorize your issue
+- Priority is assigned based on severity
+- Response time depends on priority level
+
+### 3. Resolution
+- We work to resolve your issue
+- May request additional information
+- Provide step-by-step solutions
+- Follow up to ensure resolution
+
+### 4. Follow-Up
+- We may follow up to confirm the issue is resolved
+- Request feedback on the support experience
+- Document solutions for future reference
+
+## Issue Priority Levels
+
+### Critical (Response: Within 24 hours)
+- App crashes preventing use
+- Data loss or corruption
+- Security vulnerabilities
+- Complete feature failure
+
+### High (Response: 24-48 hours)
+- Major feature not working
+- Significant performance issues
+- Data sync problems
+- Payment or subscription issues
+
+### Medium (Response: 48-72 hours)
+- Minor feature issues
+- UI/UX problems
+- Non-critical bugs
+- General questions
+
+### Low (Response: 3-5 business days)
+- Feature requests
+- Enhancement suggestions
+- General feedback
+- Non-urgent inquiries
+
+## Bug Reports
+
+### How to Report Bugs
+
+When reporting a bug, please provide:
+
+1. **Clear Description:** What happened vs. what you expected
+2. **Steps to Reproduce:** Detailed steps to trigger the issue
+3. **Environment:** Device, iOS version, app version
+4. **Frequency:** Does it happen always or sometimes?
+5. **Screenshots/Video:** Visual evidence of the issue
+6. **Error Messages:** Any error text displayed
+
+### Bug Report Template
+
+```
+Device: [Your device model]
+iOS Version: [iOS version]
+App Version: [App version]
+Issue: [Brief description]
+Steps to Reproduce:
+1. [Step 1]
+2. [Step 2]
+3. [Step 3]
+Expected: [What should happen]
+Actual: [What actually happens]
+Screenshots: [Attach if available]
+```
+
+## Feature Requests
+
+We welcome feature requests and suggestions. When submitting:
+
+- **Be Specific:** Clearly describe the feature
+- **Explain Benefits:** Why this feature would be valuable
+- **Provide Context:** How you would use it
+- **Be Patient:** Feature development takes time
+
+Note: We cannot guarantee that all feature requests will be implemented.
+
+## Refund Policy
+
+### App Store Purchases
+- Refunds are handled by Apple through the App Store
+- Contact Apple Support for refund requests
+- We cannot process refunds directly
+
+### Subscription Cancellations
+- Cancel anytime in App Store settings
+- Cancellation takes effect at the end of the billing period
+- No refunds for partial billing periods
+
+## Escalation Process
+
+If you're not satisfied with support:
+
+1. **Request Escalation:** Ask to speak with a supervisor
+2. **Provide Feedback:** Share your concerns about the support experience
+3. **Alternative Contact:** Contact info@mothership-ai.com with "ESCALATION" in subject
+
+## Privacy and Confidentiality
+
+- All support communications are confidential
+- We do not share your information with third parties
+- Support tickets are stored securely
+- We may use anonymized support data to improve the app
+
+## Limitations
+
+### What We Cannot Do
+- Access your device remotely
+- Modify data on your device directly
+- Bypass iOS security features
+- Provide support for jailbroken devices
+- Guarantee resolution of all issues
+
+### Service Availability
+- Support may be unavailable during maintenance
+- Response times may be longer during high-volume periods
+- We reserve the right to modify support hours
+
+## Updates to Support Policy
+
+We may update this Support Policy from time to time. Changes will be posted in the App and the "Last Updated" date will be revised. Continued use of the App after changes constitutes acceptance of the updated policy.
+
+## Contact
+
+For support inquiries:
+**Email:** info@mothership-ai.com
+
+For general inquiries:
+**Email:** info@mothership-ai.com
+
+---
+
+**This Support Policy is effective as of December 8, 2025.**
