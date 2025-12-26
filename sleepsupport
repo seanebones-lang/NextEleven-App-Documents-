@@ -1,0 +1,459 @@
+# Support Policy for DreamWeave
+
+**Last Updated:** December 26, 2025
+
+Welcome to DreamWeave Support! We're here to help you get the most out of your sleep companion app.
+
+---
+
+## 📧 Contact Support
+
+**Email:** info@mothership-ai.com  
+**Subject Line:** "DreamWeave Support - [Your Issue]"
+
+**Response Times:**
+- Beta testers: Within 24 hours
+- General inquiries: Within 48 hours
+- Critical issues: Within 12 hours
+- Weekends: Within 72 hours
+
+---
+
+## 🆘 What We Support
+
+### Fully Supported
+
+✅ **Technical Issues:**
+- App crashes or freezes
+- Audio playback problems
+- Features not working
+- Installation issues
+- Update problems
+
+✅ **Feature Questions:**
+- How to use specific features
+- AI story generation help
+- Voice command assistance
+- Smart light setup
+- HealthKit integration
+
+✅ **Account & Billing:**
+- Subscription questions
+- Payment issues
+- Refund requests (processed by Apple)
+- Beta testing access
+
+✅ **Content Issues:**
+- Inappropriate AI content
+- Missing audio files
+- Story playback problems
+- Lullaby quality concerns
+
+### Limited Support
+
+⚠️ **Third-Party Services:**
+- HomeKit device setup (contact manufacturer)
+- HealthKit data issues (contact Apple)
+- iOS system problems (contact Apple Support)
+- Device-specific issues
+
+### Not Supported
+
+❌ **Out of Scope:**
+- Medical advice or sleep disorder diagnosis
+- Custom feature development
+- Jailbroken devices
+- Pirated or modified versions
+- Competitor app comparisons
+
+---
+
+## 🐛 Reporting Bugs
+
+**To report a bug, include:**
+
+1. **Device Information:**
+   - iPhone model (e.g., iPhone 15 Pro)
+   - iOS version (e.g., iOS 17.2)
+   - App version (Settings → About)
+
+2. **Issue Description:**
+   - What happened?
+   - What did you expect?
+   - When did it start?
+
+3. **Steps to Reproduce:**
+   - Step 1: Open app
+   - Step 2: Tap Stories
+   - Step 3: Generate story
+   - Step 4: Error occurs
+
+4. **Screenshots/Videos:**
+   - Visual evidence helps us fix faster
+   - Screen recordings are very helpful
+
+**Email to:** info@mothership-ai.com  
+**Subject:** "DreamWeave Bug Report - [Brief Description]"
+
+---
+
+## 💡 Feature Requests
+
+We love hearing your ideas!
+
+**To request a feature:**
+- Email: info@mothership-ai.com
+- Subject: "DreamWeave Feature Request"
+- Describe: What feature and why it would help
+- Priority: How important is it to you?
+
+**We consider:**
+- User demand
+- Technical feasibility
+- Alignment with app vision
+- Development resources
+
+**Note:** We cannot guarantee implementation of all requests.
+
+---
+
+## 🔄 Beta Testing Support
+
+### During Beta Period
+
+**What's Included:**
+- Priority support response
+- Direct feedback channel
+- Early access to new features
+- Influence on development
+
+**Your Responsibilities:**
+- Test thoroughly
+- Report bugs promptly
+- Provide honest feedback
+- Be patient with issues
+
+**Known Beta Limitations:**
+- Some features may be incomplete
+- Occasional crashes possible
+- Data may be reset during updates
+- Performance may vary
+
+---
+
+## ⚡ Quick Troubleshooting
+
+### App Won't Open
+1. Force quit and reopen
+2. Restart your device
+3. Check for iOS updates
+4. Reinstall the app
+5. Contact support if persists
+
+### Audio Not Playing
+1. Check device volume
+2. Check mute switch
+3. Close other audio apps
+4. Try different lullaby
+5. Restart app
+6. Check audio file integrity
+
+### AI Story Generation Fails
+1. Check internet connection
+2. Try simpler theme
+3. Wait 30 seconds and retry
+4. Check if API service is down
+5. Contact support if continues
+
+### Voice Commands Not Working
+1. Grant microphone permission (Settings → DreamWeave)
+2. Speak clearly and slowly
+3. Check for background noise
+4. Try again in quiet environment
+5. Restart app
+
+### HealthKit Not Connecting
+1. Grant HealthKit permission (Settings → Privacy → Health)
+2. Open Apple Health app
+3. Check DreamWeave has read access
+4. Restart both apps
+5. Re-authorize in DreamWeave settings
+
+### Smart Lights Not Syncing
+1. Ensure lights are HomeKit compatible
+2. Check Home app shows lights
+3. Grant HomeKit permission
+4. Lights must be on same WiFi
+5. Restart Home app and DreamWeave
+
+---
+
+## 📱 System Requirements
+
+**Minimum Requirements:**
+- iOS 17.0 or later
+- iPhone 8 or newer
+- 200 MB free storage
+- Internet connection (for AI features)
+
+**Recommended:**
+- iOS 17.2 or later
+- iPhone 12 or newer
+- 500 MB free storage
+- WiFi connection
+- HomeKit devices (optional)
+- Apple Health app (optional)
+
+**Compatible Devices:**
+- iPhone 8, 8 Plus, X, XR, XS, XS Max
+- iPhone 11, 11 Pro, 11 Pro Max
+- iPhone 12, 12 mini, 12 Pro, 12 Pro Max
+- iPhone 13, 13 mini, 13 Pro, 13 Pro Max
+- iPhone 14, 14 Plus, 14 Pro, 14 Pro Max
+- iPhone 15, 15 Plus, 15 Pro, 15 Pro Max
+- iPhone 16, 16 Plus, 16 Pro, 16 Pro Max
+- iPhone 17, 17 Plus, 17 Pro, 17 Pro Max
+
+---
+
+## 🔒 Privacy & Security Support
+
+**For privacy concerns:**
+- Email: info@mothership-ai.com
+- Subject: "Privacy Inquiry"
+- See Privacy Policy for details
+
+**For security issues:**
+- Email: info@mothership-ai.com
+- Subject: "Security Issue - URGENT"
+- We respond within 12 hours
+
+**For data requests:**
+- Export data: Settings → Export Sleep Data
+- Delete data: Delete app or clear cache
+- Access requests: Email support
+
+---
+
+## 💳 Billing & Subscriptions
+
+### During Beta (Current)
+- All features FREE
+- No billing
+- No payment info required
+- Full access for testing
+
+### After Beta Launch
+
+**Subscription Questions:**
+- Managed through Apple App Store
+- View subscriptions: iOS Settings → [Your Name] → Subscriptions
+- Cancel: Same location, tap DreamWeave → Cancel
+- Billing: Handled by Apple
+
+**Refund Requests:**
+- Contact Apple Support directly
+- We cannot process refunds
+- Apple's refund policy applies
+- Request within 90 days of purchase
+
+**Billing Issues:**
+- Check Apple payment method
+- Verify App Store account
+- Contact Apple Support
+- We can verify subscription status
+
+---
+
+## 🌍 International Support
+
+**Languages Supported:**
+- English (primary)
+- Additional languages coming soon
+
+**Time Zones:**
+- Support team: Central Time (US)
+- We respond within stated timeframes
+- Weekend responses may be delayed
+
+**Regional Availability:**
+- Available worldwide
+- Some features require internet
+- AI services may vary by region
+- HomeKit availability varies
+
+---
+
+## 📊 Service Level Agreement (SLA)
+
+### Response Times
+
+**Critical Issues** (app crashes, data loss):
+- Initial response: 12 hours
+- Resolution target: 48 hours
+
+**High Priority** (features broken):
+- Initial response: 24 hours
+- Resolution target: 5 business days
+
+**Medium Priority** (minor bugs):
+- Initial response: 48 hours
+- Resolution target: 2 weeks
+
+**Low Priority** (feature requests, questions):
+- Initial response: 48 hours
+- Resolution: As resources allow
+
+### Resolution Process
+
+1. **Acknowledgment:** We confirm receipt
+2. **Investigation:** We reproduce and analyze
+3. **Update:** We keep you informed
+4. **Resolution:** We fix or provide workaround
+5. **Verification:** We confirm it's resolved
+6. **Follow-up:** We check your satisfaction
+
+---
+
+## 🎯 Best Practices for Support Requests
+
+### Do This ✅
+
+- Provide detailed information
+- Include screenshots/videos
+- List steps to reproduce
+- Mention device and iOS version
+- Be patient and respectful
+- Follow up if no response in 72 hours
+
+### Avoid This ❌
+
+- Vague descriptions ("it doesn't work")
+- Multiple emails for same issue
+- Demanding immediate fixes
+- Abusive or threatening language
+- Sending to wrong email address
+
+---
+
+## 🔧 Self-Service Resources
+
+**In-App Help:**
+- Settings → FAQ
+- Settings → Troubleshooting Guide
+- Settings → Onboarding (replay anytime)
+
+**Online Resources:**
+- GitHub: https://github.com/seanebones-lang/sleep (private)
+- Documentation: In Documentation folder
+- README.md: Complete feature guide
+
+---
+
+## 📞 Emergency Support
+
+**For critical issues affecting many users:**
+- We monitor social media
+- We track crash reports
+- We respond proactively
+- Updates pushed quickly
+
+**Not for emergencies:**
+- Medical emergencies: Call 911
+- Device emergencies: Contact Apple
+- This is a sleep app, not emergency service
+
+---
+
+## 🎁 Beta Tester Benefits
+
+**As a beta tester, you receive:**
+- ✅ Priority support
+- ✅ Direct communication with developers
+- ✅ Early access to new features
+- ✅ Influence on app direction
+- ✅ Free premium features
+- ✅ Recognition in credits (optional)
+
+**Your feedback shapes the app!**
+
+---
+
+## 📈 Continuous Improvement
+
+We use support requests to:
+- Identify common issues
+- Prioritize bug fixes
+- Guide feature development
+- Improve documentation
+- Enhance user experience
+
+**Your feedback makes DreamWeave better for everyone!**
+
+---
+
+## 🤝 Our Commitment
+
+**We Promise:**
+- Respectful, professional communication
+- Timely responses within stated timeframes
+- Genuine effort to resolve issues
+- Transparency about limitations
+- Continuous app improvement
+- Protection of your privacy
+
+**We Value:**
+- Your time and patience
+- Your feedback and suggestions
+- Your trust in our app
+- Your sleep and wellbeing
+
+---
+
+## 📋 Support Checklist
+
+**Before Contacting Support:**
+- [ ] Checked FAQ and troubleshooting guide
+- [ ] Tried restarting the app
+- [ ] Verified internet connection
+- [ ] Checked for app updates
+- [ ] Reviewed relevant documentation
+- [ ] Gathered device information
+- [ ] Took screenshots if applicable
+
+**This helps us help you faster!**
+
+---
+
+## Contact Information
+
+**Primary Support Email:**  
+info@mothership-ai.com
+
+**Company:**  
+NextEleven LLC  
+Frisco, Texas 75034  
+United States
+
+**Business Hours:**  
+Monday-Friday: 9 AM - 6 PM CT  
+Weekends: Limited support
+
+**Emergency Contact:**  
+For critical security issues only:  
+info@mothership-ai.com (Subject: URGENT)
+
+---
+
+## Thank You!
+
+Thank you for using DreamWeave and for your patience during beta testing. Your support and feedback help us create the best sleep companion app possible.
+
+**Sweet dreams! 🌙**
+
+---
+
+**Last Updated:** December 26, 2025  
+**Version:** 1.0
+
+© 2025 NextEleven LLC. All rights reserved.
