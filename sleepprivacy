@@ -1,0 +1,334 @@
+# Privacy Policy for DreamWeave
+
+**Effective Date:** December 26, 2025  
+**Last Updated:** December 26, 2025
+
+## Introduction
+
+NextEleven LLC ("we," "our," or "us") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how DreamWeave ("the App") collects, uses, discloses, and safeguards your information when you use our mobile application.
+
+**By using DreamWeave, you agree to the collection and use of information in accordance with this policy.**
+
+---
+
+## Information We Collect
+
+### 1. Personal Information You Provide
+
+**Account Information:**
+- Age group selection (Kid, Adult, Elder)
+- User preferences and settings
+- Custom story themes and preferences
+- Favorite stories and lullabies
+
+**User-Generated Content:**
+- Dream journal entries (stored locally only)
+- Custom story requests
+- Voice command transcripts (processed in real-time, not stored)
+- Sleep session notes
+
+### 2. Automatically Collected Information
+
+**Health Data (via HealthKit):**
+- Sleep duration and quality
+- Heart rate data
+- Sleep analysis data
+- **Note:** Health data is stored locally on your device and in Apple's Health app. We do NOT upload health data to our servers.
+
+**Usage Data:**
+- App features used
+- Story and lullaby play history
+- Session duration and frequency
+- Light scene preferences
+- Interaction patterns for AI personalization
+
+**Device Information:**
+- Device type and model
+- iOS version
+- App version
+- Unique device identifier (for crash reporting only)
+
+### 3. Third-Party Data
+
+**AI Services (Grok AI by X.AI):**
+- Story generation requests (theme, age group, custom inputs)
+- Dream descriptions for story conversion
+- Voice command transcripts for processing
+- **Note:** We send only necessary data for AI generation. No personal identifiers are included.
+
+**HomeKit Data:**
+- Smart light device names and states
+- Light control commands
+- **Note:** HomeKit data stays within Apple's ecosystem and is not uploaded to our servers.
+
+---
+
+## How We Use Your Information
+
+### Primary Uses
+
+1. **App Functionality:**
+   - Generate personalized bedtime stories
+   - Recommend appropriate content based on age group
+   - Control smart lights and audio playback
+   - Track sleep sessions and provide insights
+
+2. **Personalization:**
+   - Adapt content to your preferences
+   - Provide AI-powered recommendations
+   - Customize light scenes based on heart rate
+   - Suggest optimal bedtime routines
+
+3. **Service Improvement:**
+   - Analyze usage patterns (anonymized)
+   - Improve AI story generation quality
+   - Enhance user experience
+   - Fix bugs and crashes
+
+4. **Communication:**
+   - Send bedtime reminders (if enabled)
+   - Provide important app updates
+   - Respond to support requests
+
+### We Do NOT Use Your Information For:
+- ❌ Selling to third parties
+- ❌ Advertising or marketing to you
+- ❌ Sharing with data brokers
+- ❌ Tracking across other apps or websites
+
+---
+
+## Data Storage and Security
+
+### Local Storage
+**Most data is stored locally on your device:**
+- Sleep sessions
+- User preferences
+- Favorite content
+- Interaction history
+- Health data (via HealthKit)
+- Dream journal entries
+
+### Secure Storage
+- API keys stored in iOS Keychain
+- Health data protected by iOS security
+- No cloud backup of sensitive data
+- Encrypted data transmission (HTTPS/TLS)
+
+### Third-Party Services
+
+**Grok AI (X.AI):**
+- Used for: Story generation, dream conversion, voice commands
+- Data sent: Story themes, dream descriptions, voice transcripts
+- Data NOT sent: Personal identifiers, health data, device info
+- Privacy: https://x.ai/legal/privacy-policy
+
+**Apple Services:**
+- HealthKit: Health data stays on device and in Apple Health
+- HomeKit: Smart home data stays in Apple ecosystem
+- Speech Recognition: Processed on-device when possible
+
+---
+
+## Your Privacy Rights
+
+### Access and Control
+
+**You Have the Right To:**
+1. **Access** your data stored in the app
+2. **Export** your sleep session history (CSV format)
+3. **Delete** your data at any time
+4. **Opt-out** of data collection features
+5. **Revoke** permissions (HealthKit, HomeKit, Microphone)
+
+### How to Exercise Your Rights
+
+**Access Your Data:**
+- Settings → Export Sleep Data
+
+**Delete Your Data:**
+- Settings → Clear Cache (removes temporary data)
+- Delete the app (removes all local data)
+
+**Manage Permissions:**
+- iOS Settings → DreamWeave → Permissions
+- In-app: Settings → Permissions section
+
+**Opt-Out of Features:**
+- Settings → Toggle off Voice Commands
+- Settings → Toggle off Bedtime Reminders
+- Settings → Disable HealthKit integration
+
+---
+
+## Children's Privacy (COPPA Compliance)
+
+DreamWeave includes content for children aged 3-12 ("Kid" mode).
+
+**For Children's Privacy:**
+- We do NOT knowingly collect personal information from children
+- Kid mode does not require account creation
+- No social features or chat
+- No advertising or third-party tracking
+- Parents control all app features
+- Dream journal entries stored locally only
+
+**Parental Controls:**
+- Parents should supervise app usage
+- Age group can be changed in Settings
+- All features can be disabled
+- No in-app purchases during beta testing
+
+---
+
+## Data Retention
+
+**How Long We Keep Your Data:**
+
+- **Sleep Sessions:** Kept locally until you delete them (max 100 sessions)
+- **Interaction History:** Last 1,000 interactions
+- **Generated Stories:** Kept until you delete them
+- **Cached Images:** 30 days or until cache is cleared
+- **API Requests:** Not stored after processing
+
+**Automatic Deletion:**
+- Old cache files deleted after 30 days
+- Excess sessions deleted (keeps most recent 100)
+- Temporary files cleared on app restart
+
+---
+
+## International Users
+
+**Data Transfers:**
+- AI processing may occur on servers outside your country
+- Data transmitted to X.AI (Grok) servers for story generation
+- All transmissions encrypted via HTTPS/TLS
+- We comply with GDPR (EU), CCPA (California), and other privacy laws
+
+**Your Rights Under GDPR (EU Users):**
+- Right to access
+- Right to rectification
+- Right to erasure ("right to be forgotten")
+- Right to data portability
+- Right to object to processing
+
+**Your Rights Under CCPA (California Users):**
+- Right to know what data is collected
+- Right to delete personal information
+- Right to opt-out of data sales (we don't sell data)
+- Right to non-discrimination
+
+---
+
+## Third-Party Links and Services
+
+**External Services Used:**
+
+1. **Grok AI (X.AI):**
+   - Purpose: AI story generation
+   - Privacy Policy: https://x.ai/legal/privacy-policy
+   - Data shared: Story requests only
+
+2. **Apple HealthKit:**
+   - Purpose: Sleep tracking
+   - Privacy: Data stays on device
+   - Apple Privacy: https://www.apple.com/privacy/
+
+3. **Apple HomeKit:**
+   - Purpose: Smart light control
+   - Privacy: Data stays in Apple ecosystem
+   - Apple Privacy: https://www.apple.com/privacy/
+
+**We are not responsible for the privacy practices of third-party services.**
+
+---
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by:
+- Posting the new Privacy Policy in the app
+- Updating the "Last Updated" date
+- Sending an in-app notification for material changes
+
+**Your continued use of the app after changes constitutes acceptance of the updated policy.**
+
+---
+
+## Contact Us
+
+**For privacy-related questions or concerns:**
+
+**Email:** info@mothership-ai.com  
+**Subject Line:** "DreamWeave Privacy Inquiry"
+
+**Mailing Address:**  
+NextEleven LLC  
+Attn: Privacy Officer  
+Frisco, Texas  
+United States
+
+**Response Time:** We aim to respond within 48 hours.
+
+---
+
+## California Privacy Rights
+
+If you are a California resident, you have specific rights under the California Consumer Privacy Act (CCPA):
+
+1. **Right to Know:** Request details about data collected
+2. **Right to Delete:** Request deletion of your data
+3. **Right to Opt-Out:** We don't sell data, so no opt-out needed
+4. **Right to Non-Discrimination:** We won't discriminate for exercising rights
+
+**To exercise these rights, email:** info@mothership-ai.com
+
+---
+
+## Data Breach Notification
+
+In the unlikely event of a data breach affecting your personal information, we will:
+- Notify affected users within 72 hours
+- Provide details about the breach
+- Explain steps we're taking
+- Advise on protective measures you can take
+
+---
+
+## Your Consent
+
+By using DreamWeave, you consent to:
+- This Privacy Policy
+- Collection of data as described
+- Use of AI services for content generation
+- Local storage of your preferences and history
+
+**If you do not agree, please do not use the app.**
+
+---
+
+## Summary
+
+**What We Collect:**
+- Age group, preferences, usage data
+- Health data (stored locally only)
+- Story/lullaby requests for AI generation
+
+**What We DON'T Do:**
+- Sell your data
+- Share with advertisers
+- Track you across apps
+- Store health data on servers
+
+**Your Control:**
+- Export your data anytime
+- Delete data anytime
+- Revoke permissions anytime
+- Full transparency
+
+---
+
+**Last Updated:** December 26, 2025  
+**Version:** 1.0
+
+© 2025 NextEleven LLC. All rights reserved.
